@@ -6,7 +6,7 @@ public class guessNameGame {
 		
 		Scanner in = new Scanner (System.in);
 				int i=0;
-				String realname = "Emma";
+				String realname = "Anil";
 				String userName;
 				
 				do {
@@ -20,7 +20,7 @@ public class guessNameGame {
 						break;
 						
 					}
-					if(userName.equals("Emma")) {
+					if(userName.equals("Anil")) {
 						
 					
 						System.out.println("Congratulations!");
